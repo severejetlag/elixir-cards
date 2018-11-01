@@ -20,6 +20,8 @@ defmodule Cards do
     Enum.shuffle(deck)
   end
 
+  def hello do
+  end
   @doc """
    Determines whether a deck contains a given card
 
